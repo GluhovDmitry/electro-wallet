@@ -1,0 +1,5 @@
+django==4.2.3
+psycopg2-binary==2.9.6
+loguru==0.7.0
+python-dotenv
+python-dateutil
