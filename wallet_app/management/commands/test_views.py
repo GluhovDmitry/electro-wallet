@@ -162,14 +162,14 @@ class Command(BaseCommand):
         client = Client()
 
         # test_create_user(client)
-        # test_get_user(client)
+        test_get_user(client)
         # test_update_user(client)
         # test_delete_user(client)
         #
         # test_create_transaction(client)
-        # test_get_transaction(client)
+        test_get_transaction(client)
         # test_update_transaction(client)
         # test_delete_transaction(client)
-        test_ratings(client)
+        # test_ratings(client)
 
 

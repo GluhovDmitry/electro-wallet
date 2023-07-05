@@ -3,7 +3,7 @@ from dateutil.relativedelta import relativedelta
 from loguru import logger
 from django.db import connection
 
-from utils import fit_sql_response
+from wallet_app.utils import fit_sql_response
 
 
 def transaction_rating():
